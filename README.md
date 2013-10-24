@@ -1,4 +1,4 @@
 JED
 ===
 
-design specifications of jed projects
+Design specifications of jed projects
